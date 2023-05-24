@@ -1,0 +1,47 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #title {
+    text-align: center;
+  }
+  
+  #mainform {
+    margin-top: 30px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #butttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  #inner{
+      display: table;
+      margin: 0 auto;
+    
+  }
+  
+  
+  #loginbtn{
+      background-color: green;
+      color: white;
+      align-self: center;
+  }
+  
+  #registerbtn{
+      background-color: yellow;
+      color: black;
+      align-self: center;
+  }
+  
+  
